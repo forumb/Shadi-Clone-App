@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">ShaadiCloneApp</string>
+    <string name="find_match">Find Your Match!</string>
+    <string name="name">Name:</string>
+    <string name="dob">Born on:</string>
+    <string name="age">Age:</string>
+    <string name="gender">Gender:</string>
+    <string name="lives_in">Lives in:</string>
+    <string name="age_yrs">%s yrs</string>
+    <string name="city_state_country">%s, %s, %s</string>
+    <string name="accept">Accept</string>
+    <string name="decline">Decline</string>
+    <string name="first_last_name">%s %s</string>
+    <string name="member_accepted">Member Accepted</string>
+    <string name="member_declined">Member Declined</string>
+</resources>
